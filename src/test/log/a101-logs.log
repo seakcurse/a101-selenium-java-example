@@ -1,0 +1,147 @@
+2022-09-25 13:26:53 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU*************
+2022-09-25 13:26:53 INFO  BaseDriverSetup:26 - Anasayfa açıldı.
+2022-09-25 13:33:23 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU*************
+2022-09-25 13:33:23 INFO  BaseDriverSetup:26 - Çerezler kabul edildi.
+2022-09-25 13:33:24 INFO  BaseDriverSetup:29 - Anasayfa açıldı.
+2022-09-25 13:56:49 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU*************
+2022-09-25 13:56:49 INFO  BaseDriverSetup:26 - Çerezler kabul edildi.
+2022-09-25 13:56:51 INFO  BaseDriverSetup:29 - Anasayfa açıldı.
+2022-09-25 13:56:52 ERROR BaseDriverSetup:32 - Hata:org.openqa.selenium.support.ui.UnexpectedTagNameException: Element should have been "select" but was "a"
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-0SV2QON', ip: '172.25.16.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: driver.version: unknown
+2022-09-25 13:58:36 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU*************
+2022-09-25 13:58:36 INFO  BaseDriverSetup:26 - Çerezler kabul edildi.
+2022-09-25 13:58:37 INFO  BaseDriverSetup:29 - Anasayfa açıldı.
+2022-09-25 14:07:02 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU*************
+2022-09-25 14:07:02 INFO  BaseDriverSetup:26 - Çerezler kabul edildi.
+2022-09-25 14:07:03 INFO  BaseDriverSetup:29 - Anasayfa açıldı.
+2022-09-25 14:07:11 ERROR BaseDriverSetup:34 - Hata:org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-0SV2QON', ip: '172.25.16.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [910a13db9af43ddbd052cdda5ff33191, clickElement {id=96ad00b6-42eb-4dfc-b71c-d19b9ea37900}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64818}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64818/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (910a13db9af43ddbd052cdda5ff33191)] -> xpath: //a[@title='Kadın İç Giyim']]
+Session ID: 910a13db9af43ddbd052cdda5ff33191
+2022-09-25 14:08:48 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU*************
+2022-09-25 14:08:48 INFO  BaseDriverSetup:26 - Çerezler kabul edildi.
+2022-09-25 14:08:49 INFO  BaseDriverSetup:29 - Anasayfa açıldı.
+2022-09-25 14:08:56 ERROR BaseDriverSetup:35 - Hata:org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-0SV2QON', ip: '172.25.16.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6e659d410b178c3fb2be782eb196ea0b, clickElement {id=b0500258-622c-4a3e-b70a-af237cfe0b8f}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65028}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65028/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (6e659d410b178c3fb2be782eb196ea0b)] -> xpath: //a[@title='Kadın İç Giyim']]
+Session ID: 6e659d410b178c3fb2be782eb196ea0b
+2022-09-25 14:11:54 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU*************
+2022-09-25 14:11:54 INFO  BaseDriverSetup:26 - Çerezler kabul edildi.
+2022-09-25 14:11:56 INFO  BaseDriverSetup:29 - Anasayfa açıldı.
+2022-09-25 14:12:04 INFO  BaseDriverSetup:31 - Dizaltı çorap sayfası açıldı.
+2022-09-25 14:28:25 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU*************
+2022-09-25 14:28:25 INFO  BaseDriverSetup:26 - Çerezler kabul edildi.
+2022-09-25 14:28:27 INFO  BaseDriverSetup:29 - Anasayfa açıldı.
+2022-09-25 14:28:39 INFO  BaseDriverSetup:31 - Dizaltı çorap sayfası açıldı.
+2022-09-25 14:28:43 INFO  BaseDriverSetup:27 - Siyah renk bir ürün seçildi.
+2022-09-25 15:02:00 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU*************
+2022-09-25 15:02:01 INFO  BaseDriverSetup:26 - Çerezler kabul edildi.
+2022-09-25 15:02:02 INFO  BaseDriverSetup:29 - Anasayfa açıldı.
+2022-09-25 15:02:14 INFO  BaseDriverSetup:31 - Dizaltı çorap sayfası açıldı.
+2022-09-25 15:02:20 INFO  BaseDriverSetup:27 - Siyah renk bir ürün seçildi.
+2022-09-25 15:02:26 INFO  BaseDriverSetup:33 - Sepetime gidildi.
+2022-09-25 15:02:26 INFO  BaseDriverSetup:25 - Sepetim doğrulandı.
+2022-09-25 15:02:29 INFO  BaseDriverSetup:28 - Sepet onaylandı.
+2022-09-25 15:02:30 INFO  BaseDriverSetup:31 - Üye olmadan devam et.
+2022-09-25 15:02:32 INFO  BaseDriverSetup:34 - Üye olmadan devam et.
+2022-09-25 15:45:59 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU*************
+2022-09-25 15:46:00 INFO  BaseDriverSetup:26 - Çerezler kabul edildi.
+2022-09-25 15:46:01 INFO  BaseDriverSetup:29 - Anasayfa açıldı.
+2022-09-25 15:46:11 INFO  BaseDriverSetup:31 - Dizaltı çorap sayfası açıldı.
+2022-09-25 15:46:16 INFO  BaseDriverSetup:27 - Siyah renk bir ürün seçildi.
+2022-09-25 15:46:27 INFO  BaseDriverSetup:33 - Sepetime gidildi.
+2022-09-25 15:46:27 INFO  BaseDriverSetup:25 - Sepetim doğrulandı.
+2022-09-25 15:46:29 INFO  BaseDriverSetup:28 - Sepet onaylandı.
+2022-09-25 15:46:31 INFO  BaseDriverSetup:31 - Üye olmadan devam et.
+2022-09-25 15:46:32 INFO  BaseDriverSetup:34 - Mail girildi.
+2022-09-25 15:46:34 INFO  BaseDriverSetup:37 - Devam et butonuna tıklandı.
+2022-09-25 15:46:36 INFO  BaseDriverSetup:40 - yeni adres eklemek yapılır.
+2022-09-25 15:46:37 INFO  BaseDriverSetup:43 - Adres başlığı.
+2022-09-25 15:46:37 INFO  BaseDriverSetup:45 - Ad girilir.
+2022-09-25 15:46:38 INFO  BaseDriverSetup:47 - Soyad girilir.
+2022-09-25 15:46:38 INFO  BaseDriverSetup:49 - Telefon girilir.
+2022-09-25 15:46:38 ERROR BaseDriverSetup:73 - Hata:org.openqa.selenium.NoSuchElementException: Cannot locate option with text: KIRIKHAN
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-0SV2QON', ip: '172.25.16.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: driver.version: unknown
+2022-09-25 15:47:43 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU*************
+2022-09-25 15:47:43 INFO  BaseDriverSetup:26 - Çerezler kabul edildi.
+2022-09-25 15:47:45 INFO  BaseDriverSetup:29 - Anasayfa açıldı.
+2022-09-25 15:48:14 INFO  BaseDriverSetup:31 - Dizaltı çorap sayfası açıldı.
+2022-09-25 15:48:39 INFO  BaseDriverSetup:27 - Siyah renk bir ürün seçildi.
+2022-09-25 15:48:44 INFO  BaseDriverSetup:33 - Sepetime gidildi.
+2022-09-25 15:48:45 INFO  BaseDriverSetup:25 - Sepetim doğrulandı.
+2022-09-25 15:48:47 INFO  BaseDriverSetup:28 - Sepet onaylandı.
+2022-09-25 15:48:48 INFO  BaseDriverSetup:31 - Üye olmadan devam et.
+2022-09-25 15:48:50 INFO  BaseDriverSetup:34 - Mail girildi.
+2022-09-25 15:48:52 INFO  BaseDriverSetup:37 - Devam et butonuna tıklandı.
+2022-09-25 15:48:54 INFO  BaseDriverSetup:40 - yeni adres eklemek yapılır.
+2022-09-25 15:48:56 INFO  BaseDriverSetup:43 - Adres başlığı.
+2022-09-25 15:48:56 INFO  BaseDriverSetup:45 - Ad girilir.
+2022-09-25 15:48:56 INFO  BaseDriverSetup:47 - Soyad girilir.
+2022-09-25 15:48:56 INFO  BaseDriverSetup:49 - Telefon girilir.
+2022-09-25 15:49:03 INFO  BaseDriverSetup:58 - Adres girilir.
+2022-09-25 15:49:04 INFO  BaseDriverSetup:61 - Kaydet butonuna tıklanır.
+2022-09-25 15:49:06 INFO  BaseDriverSetup:64 - Kargo seçilir.
+2022-09-25 15:49:07 INFO  BaseDriverSetup:67 - kaydet ve devam et butonuna tıklanır.
+2022-09-25 15:49:09 INFO  BaseDriverSetup:70 - Sipaarişi tamamla butonuna tıklanır butonuna tıklanır.
+2022-09-25 15:49:11 INFO  BaseDriverSetup:73 - Ödeme ekranında olduğu doğrulanır
+2022-09-25 15:54:20 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU BAŞLIYOR*************
+2022-09-25 15:54:21 INFO  BaseDriverSetup:26 - Çerezler kabul edildi.
+2022-09-25 15:54:22 INFO  BaseDriverSetup:29 - Anasayfa açıldı.
+2022-09-25 15:54:33 INFO  BaseDriverSetup:31 - Dizaltı çorap sayfası açıldı.
+2022-09-25 15:54:37 INFO  BaseDriverSetup:27 - Siyah renk bir ürün seçildi.
+2022-09-25 15:54:38 INFO  BaseDriverSetup:30 - Sepete eklendi.
+2022-09-25 15:54:41 INFO  BaseDriverSetup:33 - Sepet görüntüle butonuna tıklandı.
+2022-09-25 15:54:42 INFO  BaseDriverSetup:35 - Sepetime gidildi.
+2022-09-25 15:54:44 INFO  BaseDriverSetup:25 - Sepetim doğrulandı.
+2022-09-25 15:54:47 INFO  BaseDriverSetup:28 - Sepet onaylandı.
+2022-09-25 15:54:48 INFO  BaseDriverSetup:31 - Üye olmadan devam et.
+2022-09-25 15:54:50 INFO  BaseDriverSetup:34 - Mail girildi.
+2022-09-25 15:54:52 INFO  BaseDriverSetup:37 - Devam et butonuna tıklandı.
+2022-09-25 15:54:54 INFO  BaseDriverSetup:40 - Yeni adres ekleme yapılır.
+2022-09-25 15:54:56 INFO  BaseDriverSetup:43 - Adres başlığı girilir.
+2022-09-25 15:54:56 INFO  BaseDriverSetup:45 - Ad girilir.
+2022-09-25 15:54:56 INFO  BaseDriverSetup:47 - Soyad girilir.
+2022-09-25 15:54:56 INFO  BaseDriverSetup:49 - Telefon girilir.
+2022-09-25 15:55:02 INFO  BaseDriverSetup:58 - Adres girilir.
+2022-09-25 15:55:04 INFO  BaseDriverSetup:61 - Kaydet butonuna tıklanır.
+2022-09-25 15:55:36 ERROR BaseDriverSetup:79 - Hata:org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //label[@data-slug='11'] (tried for 30 second(s) with 300 milliseconds interval)
+2022-09-25 15:57:06 INFO  BaseDriverSetup:24 - *************A101 SİTESİ TEST OTOMASYONU BAŞLIYOR*************
+2022-09-25 15:57:06 INFO  BaseDriverSetup:26 - Çerezler kabul edildi.
+2022-09-25 15:57:07 INFO  BaseDriverSetup:29 - Anasayfa açıldı.
+2022-09-25 15:57:36 INFO  BaseDriverSetup:31 - Dizaltı çorap sayfası açıldı.
+2022-09-25 15:57:40 INFO  BaseDriverSetup:27 - Siyah renk bir ürün seçildi.
+2022-09-25 15:57:42 INFO  BaseDriverSetup:30 - Sepete eklendi.
+2022-09-25 15:58:00 INFO  BaseDriverSetup:33 - Sepet görüntüle butonuna tıklandı.
+2022-09-25 15:58:01 INFO  BaseDriverSetup:35 - Sepetime gidildi.
+2022-09-25 15:58:03 INFO  BaseDriverSetup:25 - Sepetim doğrulandı.
+2022-09-25 15:58:05 INFO  BaseDriverSetup:28 - Sepet onaylandı.
+2022-09-25 15:58:07 INFO  BaseDriverSetup:31 - Üye olmadan devam et.
+2022-09-25 15:58:08 INFO  BaseDriverSetup:34 - Mail girildi.
+2022-09-25 15:58:10 INFO  BaseDriverSetup:37 - Devam et butonuna tıklandı.
+2022-09-25 15:58:12 INFO  BaseDriverSetup:40 - Yeni adres ekleme yapılır.
+2022-09-25 15:58:14 INFO  BaseDriverSetup:43 - Adres başlığı girilir.
+2022-09-25 15:58:14 INFO  BaseDriverSetup:45 - Ad girilir.
+2022-09-25 15:58:14 INFO  BaseDriverSetup:47 - Soyad girilir.
+2022-09-25 15:58:14 INFO  BaseDriverSetup:49 - Telefon girilir.
+2022-09-25 15:58:20 INFO  BaseDriverSetup:58 - Adres girilir.
+2022-09-25 15:58:20 INFO  BaseDriverSetup:60 - Kaydet butonuna tıklanır.
+2022-09-25 15:58:22 INFO  BaseDriverSetup:63 - Kargo seçilir.
+2022-09-25 15:58:24 INFO  BaseDriverSetup:66 - Kaydet ve devam et butonuna tıklanır.
+2022-09-25 15:58:25 INFO  BaseDriverSetup:69 - Siparişi tamamla butonuna tıklanır butonuna tıklanır.
+2022-09-25 15:58:27 INFO  BaseDriverSetup:72 - Ödeme ekranında olduğu doğrulanır
+2022-09-25 15:58:28 INFO  BaseDriverSetup:74 - *************A101 SİTESİ TEST OTOMASYONU BİTTİ*************
